@@ -3,7 +3,7 @@ return {
     formatting = {
       format_on_save = false,
     },
-    skip_setup = { "clangd" },
+    -- skip_setup = { "clangd" },
     ["server-settings"] = {
       clangd = {
         capabilities = {
